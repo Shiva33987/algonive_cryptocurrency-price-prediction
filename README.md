@@ -12,6 +12,9 @@ Build a time-series forecasting model using LSTM
 Predict future BTC closing prices
 Evaluate model performance using regression metrics
 
+<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/28293385-43cd-4ccc-8e94-5d392b741e7b" />
+
+
 📊 Dataset
 
 Historical Bitcoin price data (Open, High, Low, Close, Volume)
@@ -40,6 +43,8 @@ Created sequences (look-back window) for LSTM input
 
 Built Sequential LSTM model
 Added: LSTM layers, Dropout layers, Dense output layer, Compiled using Adam optimizer and MSE loss
+
+<img width="290" height="174" alt="image" src="https://github.com/user-attachments/assets/3a34a725-587f-4f73-9791-bbe8f1c06d69" />
 
 4️⃣ Model Training
 
